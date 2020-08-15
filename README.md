@@ -89,8 +89,3 @@ Now, every commit should be signed. You can verify the signator using `git-verif
 * Beware of sites pretending to be related with the Fluxion Project. These may be delivering malware.
 
 * Fluxion **DOES NOT WORK** on Linux Subsystem For Windows 10, because the subsystem doesn't allow access to network interfaces. Any Issue regarding the same would be **Closed Immediately**
-
-## Links
-**Fluxion website:** https://fluxionnetwork.github.io/fluxion/ <br>
-**Discord:** https://discordapp.com/invite/G43gptk <br>
-**Gitter:** https://gitter.im/FluxionNetwork/Lobby <br>
